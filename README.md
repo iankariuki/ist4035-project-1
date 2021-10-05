@@ -3,4 +3,5 @@
 
 ## Members:
     - Yvon Manzi
+    - Ian Kariuki
     - [Add your name here]
